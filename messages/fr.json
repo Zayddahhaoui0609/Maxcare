@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "about": "À Propos",
+    "contact": "Contact",
+    "shop": "Boutique"
+  },
+  "hero": {
+    "title": "Le Pouvoir de",
+    "titleHighlight": "l'Huile d'Argan Marocaine",
+    "description": "Provenant des anciennes forêts d'arganiers du Maroc, notre huile premium est pressée à froid pour préserver ses nutriments naturels et offrir des bienfaits exceptionnels pour les cheveux. Découvrez le pouvoir transformateur de l'ingrédient le plus luxueux de la nature.",
+    "shopButton": "Voir la Collection",
+    "storyButton": "Notre Histoire"
+  },
+  "featured": {
+    "title": "Collection",
+    "titleHighlight": "Vedette",
+    "description": "Découvrez l'essence des soins capillaires de luxe. Chaque produit MaxCare est méticuleusement élaboré avec des ingrédients rares et performants comme l'huile d'argan marocaine et le caviar doré.",
+    "viewAll": "Voir Tous les Produits"
+  },
+  "signature": {
+    "badge": "Où l'Élégance Rencontre la Perfection Capillaire",
+    "title": "Nos Collections",
+    "titleHighlight": "Signature",
+    "description": "Découvrez l'essence des soins capillaires de luxe. Chaque collection MaxCare est méticuleusement élaborée avec des ingrédients rares et performants comme l'huile d'argan marocaine, le caviar doré et le gingembre revitalisant pour restaurer la vitalité, sublimer la brillance et transformer votre rituel capillaire en une expérience spa.",
+    "exploreButton": "Explorer Toutes les Collections",
+    "collections": {
+      "caviar": {
+        "title": "Collection Caviar",
+        "description": "Extrait de caviar doré pour une nutrition ultime"
+      },
+      "luxury": {
+        "title": "Collection Luxe",
+        "description": "Formules premium avec des ingrédients rares haute performance"
+      },
+      "argan": {
+        "title": "Collection Huile d'Argan",
+        "description": "Huile d'argan marocaine pure pour des cheveux sains et radieux"
+      }
+    }
+  },
+  "offer": {
+    "title": "Offre Exclusive",
+    "description": "Obtenez 20% de réduction sur votre première commande. Offre limitée!",
+    "button": "Acheter Maintenant"
+  },
+  "testimonials": {
+    "title": "Aimé par des",
+    "titleHighlight": "Milliers",
+    "description": "Rejoignez notre communauté de clients satisfaits qui ont découvert le secret de cheveux sains et radieux avec MaxCare Maroc.",
+    "stats": {
+      "rating": "Note Moyenne",
+      "customers": "Clients Satisfaits",
+      "satisfaction": "Taux de Satisfaction"
+    }
+  },
+  "faq": {
+    "title": "Questions",
+    "titleHighlight": "Fréquentes",
+    "description": "Trouvez des réponses aux questions courantes sur nos produits et services."
+  },
+  "products": {
+    "title": "Notre",
+    "titleHighlight": "Collection",
+    "description": "Découvrez des produits capillaires premium élaborés avec de l'huile d'argan marocaine pure et du caviar doré pour des résultats exceptionnels.",
+    "collections": "Collections:",
+    "productType": "Type de Produit:",
+    "all": "Tous",
+    "noProducts": "Aucun produit trouvé dans cette catégorie.",
+    "addToCart": "Ajouter au Panier",
+    "categories": {
+      "hairSerum": "Sérum Capillaire",
+      "shampoo": "Shampooing",
+      "conditioner": "Après-shampooing",
+      "hairMask": "Masque Capillaire",
+      "hairTreatment": "Traitement Capillaire",
+      "youthOil": "Huile Jeunesse"
+    },
+    "collectionsNames": {
+      "arganOil": "Huile d'Argan",
+      "caviar": "Caviar",
+      "luxuryArganOil": "Huile d'Argan Luxe",
+      "hairTreatment": "Traitement Capillaire"
+    }
+  },
+  "productDetail": {
+    "backButton": "Retour aux Produits",
+    "perBottle": "/ 500 ml",
+    "keyIngredients": "Ingrédients Clés:",
+    "keyFeatures": "Caractéristiques Clés:",
+    "orderTitle": "Commander en toute",
+    "orderHighlight": "simplicité",
+    "orderDescription": "Remplissez vos coordonnées et nous traiterons votre commande",
+    "orderProduct": "Commander le Produit",
+    "form": {
+      "fullName": "Nom Complet",
+      "address": "Adresse",
+      "phone": "Numéro de Téléphone",
+      "selectProduct": "Sélectionner le Produit",
+      "paymentMethod": "Mode de Paiement",
+      "message": "Message (Optionnel)",
+      "cashOnDelivery": "Paiement à la Livraison",
+      "bankTransfer": "Virement Bancaire",
+      "submitButton": "Envoyer la Commande",
+      "processing": "Traitement..."
+    },
+    "success": {
+      "title": "Commande Envoyée!",
+      "message": "Nous vous contacterons bientôt pour confirmer votre commande."
+    }
+  },
+  "about": {
+    "badge": "Notre Histoire",
+    "title": "Créer le Luxe à partir de",
+    "titleHighlight": "l'Héritage Marocain",
+    "description": "MaxCare est né d'une passion pour les secrets de beauté marocains authentiques et d'un engagement à apporter des soins de luxe aux clients exigeants.",
+    "journey": {
+      "title": "Le Parcours de",
+      "titleHighlight": "MaxCare"
+    },
+    "values": {
+      "title": "Nos",
+      "titleHighlight": "Valeurs",
+      "description": "Les principes qui guident tout ce que nous faisons chez MaxCare."
+    },
+    "cta": {
+      "title": "Rejoignez Notre Aventure",
+      "description": "Faites partie de la famille MaxCare et découvrez le secret d'une peau radieuse et jeune avec notre collection premium de soins marocains.",
+      "button": "Explorer les Produits"
+    }
+  },
+  "contact": {
+    "title": "Entrer en",
+    "titleHighlight": "Contact",
+    "description": "Vous avez des questions sur nos produits? Nous serions ravis de vous entendre. Envoyez-nous un message et nous vous répondrons dès que possible.",
+    "emailUs": "Nous Écrire",
+    "emailAddress": "contact@maxcare.ma",
+    "emailDescription": "Réponse sous 24 heures",
+    "callUs": "Nous Appeler",
+    "phoneNumber": "+212 600 000 000",
+    "phoneDescription": "Lun-Ven de 9h à 18h",
+    "whatsapp": "WhatsApp",
+    "whatsappDescription": "Chattez avec nous à tout moment",
+    "form": {
+      "title": "Envoyez-nous un Message",
+      "name": "Votre Nom",
+      "email": "Votre Email",
+      "phone": "Numéro de Téléphone",
+      "message": "Votre Message",
+      "submitButton": "Envoyer le Message",
+      "sending": "Envoi..."
+    }
+  },
+  "footer": {
+    "description": "Produits capillaires marocains premium élaborés avec de l'huile d'argan pure et du caviar doré.",
+    "quickLinks": "Liens Rapides",
+    "collections": "Collections",
+    "support": "Support",
+    "followUs": "Suivez-nous",
+    "rights": "Tous droits réservés."
+  },
+  "common": {
+    "currency": "DH",
+    "readMore": "Lire Plus",
+    "learnMore": "En Savoir Plus",
+    "close": "Fermer",
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "success": "Succès!"
+  }
+}

@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-playfair: 'Playfair Display', serif;
+    --font-inter: 'Inter', sans-serif;
+  }
+  
+  * {
+    @apply border-luxury-beige-300;
+  }
+  
+  body {
+    @apply bg-luxury-beige-50 text-luxury-brown-800 font-sans antialiased;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  html.lenis {
+    height: auto;
+  }
+  
+  .lenis.lenis-smooth {
+    scroll-behavior: auto !important;
+  }
+  
+  .lenis.lenis-smooth [data-lenis-prevent] {
+    overscroll-behavior: contain;
+  }
+  
+  .lenis.lenis-stopped {
+    overflow: hidden;
+  }
+  
+  .lenis.lenis-scrolling iframe {
+    pointer-events: none;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  .glass-effect {
+    @apply bg-white/80 backdrop-blur-md border border-luxury-beige-200/50;
+  }
+  
+  .luxury-shadow {
+    box-shadow: 0 4px 24px rgba(107, 68, 35, 0.08), 0 2px 8px rgba(107, 68, 35, 0.04);
+  }
+  
+  .luxury-shadow-lg {
+    box-shadow: 0 8px 40px rgba(107, 68, 35, 0.12), 0 4px 16px rgba(107, 68, 35, 0.06);
+  }
+  
+  .gradient-text {
+    @apply bg-gradient-to-r from-luxury-amber-600 via-luxury-gold-500 to-luxury-amber-600 bg-clip-text text-transparent;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  
+  html {
+    scroll-behavior: auto;
+  }
+}

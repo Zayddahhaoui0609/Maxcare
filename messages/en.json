@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "shop": "Shop"
+  },
+  "hero": {
+    "title": "The Power of",
+    "titleHighlight": "Moroccan Argan Oil",
+    "description": "Sourced from the ancient Argan forests of Morocco, our premium oil is cold-pressed to preserve its natural nutrients and deliver exceptional hair care benefits. Experience the transformative power of nature's most luxurious ingredient.",
+    "shopButton": "Shop Collection",
+    "storyButton": "Our Story"
+  },
+  "featured": {
+    "title": "Featured",
+    "titleHighlight": "Collection",
+    "description": "Experience the essence of luxury hair care. Each MaxCare product is meticulously crafted with rare, high-performance ingredients like Moroccan Argan Oil and Golden Caviar.",
+    "viewAll": "View All Products"
+  },
+  "signature": {
+    "badge": "Where Elegance Meets Hair Perfection",
+    "title": "Our Signature",
+    "titleHighlight": "Collections",
+    "description": "Experience the essence of luxury hair care. Each MaxCare collection is meticulously crafted with rare, high-performance ingredients like Moroccan Argan Oil, Golden Caviar and Revitalizing Ginger to restore vitality, elevate shine, and transform your hair care ritual into a spa-like experience.",
+    "exploreButton": "Explore All Collections",
+    "collections": {
+      "caviar": {
+        "title": "Caviar Collection",
+        "description": "Golden Caviar extract for ultimate nourishment"
+      },
+      "luxury": {
+        "title": "Luxury Collection",
+        "description": "Premium formulas with rare high-performance ingredients"
+      },
+      "argan": {
+        "title": "Argan Oil Collection",
+        "description": "Pure Moroccan Argan Oil for healthy, radiant hair"
+      }
+    }
+  },
+  "offer": {
+    "title": "Exclusive Offer",
+    "description": "Get 20% off on your first order. Limited time offer!",
+    "button": "Shop Now"
+  },
+  "testimonials": {
+    "title": "Loved by",
+    "titleHighlight": "Thousands",
+    "description": "Join our community of satisfied customers who have discovered the secret to healthy, radiant hair with MaxCare Maroc.",
+    "stats": {
+      "rating": "Average Rating",
+      "customers": "Happy Customers",
+      "satisfaction": "Satisfaction Rate"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked",
+    "titleHighlight": "Questions",
+    "description": "Find answers to common questions about our products and services."
+  },
+  "products": {
+    "title": "Our",
+    "titleHighlight": "Collection",
+    "description": "Discover premium hair care products crafted with pure Moroccan Argan oil and Golden Caviar for exceptional results.",
+    "collections": "Collections:",
+    "productType": "Product Type:",
+    "all": "All",
+    "noProducts": "No products found in this category.",
+    "addToCart": "Add to Cart",
+    "categories": {
+      "hairSerum": "Hair Serum",
+      "shampoo": "Shampoo",
+      "conditioner": "Conditioner",
+      "hairMask": "Hair Mask",
+      "hairTreatment": "Hair Treatment",
+      "youthOil": "Youth Oil"
+    },
+    "collectionsNames": {
+      "arganOil": "Argan Oil",
+      "caviar": "Caviar",
+      "luxuryArganOil": "Luxury Argan Oil",
+      "hairTreatment": "Hair Treatment"
+    }
+  },
+  "productDetail": {
+    "backButton": "Back to Products",
+    "perBottle": "/ 500 ml",
+    "keyIngredients": "Key Ingredients:",
+    "keyFeatures": "Key Features:",
+    "orderTitle": "Order with all",
+    "orderHighlight": "simply",
+    "orderDescription": "Fill in your details and we'll process your order",
+    "orderProduct": "Order Product",
+    "form": {
+      "fullName": "Full Name",
+      "address": "Address",
+      "phone": "Phone Number",
+      "selectProduct": "Select Product",
+      "paymentMethod": "Payment Method",
+      "message": "Message (Optional)",
+      "cashOnDelivery": "Cash on Delivery",
+      "bankTransfer": "Bank Transfer",
+      "submitButton": "Submit Order",
+      "processing": "Processing..."
+    },
+    "success": {
+      "title": "Order Submitted!",
+      "message": "We'll contact you soon to confirm your order."
+    }
+  },
+  "about": {
+    "badge": "Our Story",
+    "title": "Crafting Luxury from",
+    "titleHighlight": "Moroccan Heritage",
+    "description": "MaxCare was born from a passion for authentic Moroccan beauty secrets and a commitment to bringing luxury skincare to discerning customers.",
+    "journey": {
+      "title": "The Journey of",
+      "titleHighlight": "MaxCare"
+    },
+    "values": {
+      "title": "Our",
+      "titleHighlight": "Values",
+      "description": "The principles that guide everything we do at MaxCare."
+    },
+    "cta": {
+      "title": "Join Our Journey",
+      "description": "Become part of the MaxCare family and discover the secret to radiant, youthful skin with our premium Moroccan skincare collection.",
+      "button": "Explore Products"
+    }
+  },
+  "contact": {
+    "title": "Get in",
+    "titleHighlight": "Touch",
+    "description": "Have questions about our products? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+    "emailUs": "Email Us",
+    "emailAddress": "contact@maxcare.ma",
+    "emailDescription": "We'll respond within 24 hours",
+    "callUs": "Call Us",
+    "phoneNumber": "+212 600 000 000",
+    "phoneDescription": "Mon-Fri from 9am to 6pm",
+    "whatsapp": "WhatsApp",
+    "whatsappDescription": "Chat with us anytime",
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Your Name",
+      "email": "Your Email",
+      "phone": "Phone Number",
+      "message": "Your Message",
+      "submitButton": "Send Message",
+      "sending": "Sending..."
+    }
+  },
+  "footer": {
+    "description": "Premium Moroccan hair care products crafted with pure Argan oil and Golden Caviar.",
+    "quickLinks": "Quick Links",
+    "collections": "Collections",
+    "support": "Support",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "currency": "MAD",
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!"
+  }
+}
